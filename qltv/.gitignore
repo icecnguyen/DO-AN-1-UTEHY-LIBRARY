@@ -1,0 +1,20 @@
+# Visual Studio cache and temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# Build outputs
+[Db]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# Temporary and local text extractions
+qltv_utehy_content.txt
+qltv_utehy_content_*.txt
+*.log

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qltv", "qltv.csproj", "{F058F22A-7B9A-4A08-B37D-2C98729EAF73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "qltv_build", "..\qltv_build\qltv_build.vdproj", "{8CD3C48A-6F3C-3271-0E24-6E7414839430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Debug|x64.ActiveCfg = Debug|x64
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Debug|x64.Build.0 = Debug|x64
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Release|x64.ActiveCfg = Release|x64
+		{F058F22A-7B9A-4A08-B37D-2C98729EAF73}.Release|x64.Build.0 = Release|x64
+		{8CD3C48A-6F3C-3271-0E24-6E7414839430}.Debug|Any CPU.ActiveCfg = Debug
+		{8CD3C48A-6F3C-3271-0E24-6E7414839430}.Debug|x64.ActiveCfg = Debug
+		{8CD3C48A-6F3C-3271-0E24-6E7414839430}.Release|Any CPU.ActiveCfg = Release
+		{8CD3C48A-6F3C-3271-0E24-6E7414839430}.Release|x64.ActiveCfg = Release
+		{8CD3C48A-6F3C-3271-0E24-6E7414839430}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784C164F-7EFE-449E-858A-875AF3C037FE}
+	EndGlobalSection
+EndGlobal
