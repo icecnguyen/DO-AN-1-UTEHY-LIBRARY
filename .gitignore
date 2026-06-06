@@ -1,0 +1,24 @@
+# Thư mục tạm và cấu hình cá nhân của Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.vsidx
+
+# Thư mục chứa kết quả biên dịch mã nguồn
+[Bb]in/
+[Oo]bj/
+
+# Thư mục chứa thư viện NuGet (Visual Studio sẽ tự động tải lại khi clone code về)
+packages/
+
+# File rác/backup tạm thời của phần mềm vẽ biểu đồ Draw.io
+.$*.bkp
+*.drawio.bkp
+~$*
+
+# Thư mục chứa kết quả đóng gói bộ cài (Setup Project)
+qltv_build/Debug/
+qltv_build/Release/
+*.msi
+*.exe
